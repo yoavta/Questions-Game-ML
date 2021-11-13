@@ -1,0 +1,5 @@
+label,Is it necessarily a team sport?,Does take place on a court?,Is there a ball?,"If there's a ball, is it bigger than an orange?",Is there an accessory for each player? (Excluding clothing),Is it a sport that most people know how to do?,Does it occur in water?,Does wind affects much on the sports?,Involve strenuous physical activity?,Is there a defined opponent?,The duration of the game / sport is pre-set?,Is it in the air?,Do you mainly use sports on foot?
+running,0,0,0,0,0,1,0,0,1,0,0,0,1
+soccer,1,1,1,1,0,1,0,0,1,1,1,0,1
+basketball,1,1,1,1,0,1,0,0,1,1,1,0,0
+surfing,0,0,0,0,1,0,1,1,1,0,0,0,0
