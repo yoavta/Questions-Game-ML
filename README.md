@@ -20,7 +20,7 @@ To do so I will change the program to ask the users only the most 20's important
 Then the program will be still limited to 20 questions but the structure of the questions would be nested. (Example: Does it in the kitchen?-> is it used for eating?-> is it spoon? and not just general questions).
 
 ## Flow
-- Reads data from CSV file and arrange it.
+- Reads data from the CSV file and arranges it.
 
 ![image](https://user-images.githubusercontent.com/70321869/141645091-c3b3430c-58d7-458a-a5e0-2430e06fa356.png)
 
