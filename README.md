@@ -13,7 +13,7 @@ every session the program learns new information from the user input and improve
 - Visualisation by Graphviz.
 
 ## Next version
--After getting more data from users I will add the ability to ask the user only the questions needed to determine the prediction. (traverse only the nodes that exist in the Decision-tree at the moment).
+- After getting more data from users I will add the ability to ask the user only the questions needed to determine the prediction. (traverse only the nodes that exist in the Decision-tree at the moment).
 
 - Expend the program to every field(peoples, places, and more) and not only for Sports.
 To do so I will change the program to ask the users only the most 20's important features/questions and expand my questions database to be much bigger than 20. 
